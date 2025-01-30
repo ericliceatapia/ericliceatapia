@@ -1,9 +1,9 @@
 # Hi, I'm Eric
-**Computer Science Major @ Texas Christian University | Mathematics Minor | John V. Roach Honors Program**
-**Helpdesk Technician @ Texas Christian University Information Technology**
+**Computer Science Major @ Texas Christian University | Mathematics Minor | John V. Roach Honors Scholar**  
+**Helpdesk Technician @ TCU Information Technology**
 
 ## About Me
-- Currently working on building my **portfolio website** to showcase my projects.
+- Building my **portfolio website** to showcase my projects.
 - **Currently Exploring:** Web development, cybersecurity, and artificial intelligence.
 - **Familiar with:** Systems design, data structures & algorithms, and cloud computing.
 - **Active U.S. Secret Security Clearance**
@@ -27,4 +27,5 @@
 - **Tools**: Git, Neovim, Visual Studio Code, VMware Fusion, Microsoft Office (Word, PowerPoint, Outlook)
 - **Operating Environments**: macOS, Linux (Arch, Ubuntu, Fedora), Windows 10/11
 
-**Connect with me**: [LinkedIn] (https://www.linkedin.com/in/eric-licea-tapia/)
+## Connect with Me
+[LinkedIn] (https://www.linkedin.com/in/eric-licea-tapia/)
