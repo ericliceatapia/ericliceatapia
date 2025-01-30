@@ -1,8 +1,9 @@
 # Hi, I'm Eric
 **Computer Science Major @ Texas Christian University | Mathematics Minor | John V. Roach Honors Program**
+**Helpdesk Technician @ Texas Christian University Information Technology**
 
 ## About Me
-- Currently building my **portfolio website** to showcase my projects.
+- Currently working on building my **portfolio website** to showcase my projects.
 - **Currently Exploring:** Web development, cybersecurity, and artificial intelligence.
 - **Familiar with:** Systems design, data structures & algorithms, and cloud computing.
 - **Active U.S. Secret Security Clearance**
