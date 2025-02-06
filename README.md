@@ -19,8 +19,7 @@
 - **Tech & Software Development** – Scalable applications, SaaS platforms
 - **Government & Military Technology** – National security, intelligence systems, critical infrastructure security
   - **Eligible for positions requiring U.S. Secret Security Clearance**
-- **Education Technology (EdTech)** – Tools for STEM education, mentorship platforms
-- **Financial Technology (FinTech)** – Payment systems, risk management, blockchain
+- **Education Technology** – Tools for STEM education, mentorship platforms
 
 ## Tech Stack
 - **Languages**: Java, C, Python (learning), HTML, CSS, Kotlin, MySQL (basic)
