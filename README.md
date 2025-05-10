@@ -1,5 +1,5 @@
 # Hi, I'm Eric
-**Computer Science Major @ Texas Christian University**
+**Computer Science Major @ Texas Christian University**  
 **Helpdesk Technician @ TCU Information Technology**
 
 ## About Me
