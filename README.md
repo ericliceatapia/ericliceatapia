@@ -1,5 +1,5 @@
 # Hi, I'm Eric
-**Computer Science Major @ Texas Christian University**
+**Computer Science Student @ Texas Christian University**
 
 ## About Me
 - Currently building my **portfolio website** to showcase my knowledge
