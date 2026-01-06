@@ -2,12 +2,12 @@
 **Computer Science Student @ Texas Christian University**
 
 ## About Me
-- Currently building my **portfolio website** to showcase my knowledge
+- Native Texan exploring through life
+- Currently working on side projects to gain exposure and knowledge
 - **Active U.S. Secret Security Clearance**
 
 ## Fields of Interest
 - **Software Engineering**
-- **Cybersecurity**
 - **Web Development**
 
 ## Connect with Me
