@@ -2,13 +2,10 @@
 **Computer Science Student @ Texas Christian University**
 
 ## About Me
-- Native Texan exploring through life
-- Currently working on side projects to gain exposure and knowledge
+- Dallas/Fort Worth area
+- Currently working on side projects to gain experience
+- Love to travel and tinker with computers
 - **Active U.S. Secret Security Clearance**
-
-## Fields of Interest
-- **Software Engineering**
-- **Web Development**
 
 ## Connect with Me
 [LinkedIn] (https://www.linkedin.com/in/eric-licea-tapia/)
