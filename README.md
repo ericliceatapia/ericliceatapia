@@ -1,9 +1,8 @@
 # Hi, I'm Eric
-**Computer Science Student @ Texas Christian University**
+**Graduate student at Texas Christian University**
 
 ## About Me
 - Dallas/Fort Worth area
-- Currently working on side projects to gain experience
 - Love to travel and tinker with computers
 - **Active U.S. Secret Security Clearance**
 
